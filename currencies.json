@@ -2337,6 +2337,19 @@
 		"decimals": 2,
 		"numToBasic": 100
 	},
+	"ZIG": {
+		"name": "Zimbabwe Gold",
+		"denonym": "Zimbabwean",
+		"majorSingle": "ZWG",
+		"majorPlural": "ZWG",
+		"ISOnum": 924,
+		"symbol": "ZWG",
+		"symbolNative": "ZWG",
+		"minorSingle": "Cent",
+		"minorPlural": "Cents",
+		"decimals": 2,
+		"numToBasic": 100
+	},
 	"ZMW": {
 		"name": "Zambian Kwacha",
 		"demonym": "Zambian",
